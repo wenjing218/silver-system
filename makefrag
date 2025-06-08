@@ -1,0 +1,3 @@
+OMNETPP_LIBS += -lcrypto
+CFLAGS += -DKYBER_K=2
+
